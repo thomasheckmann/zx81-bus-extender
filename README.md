@@ -5,7 +5,9 @@ KiCad 8 files availble, in case you want to play around with it yourself - or Ge
 
 BOM for v1:
 - [ ] 2 x Edge Connector for ZX81
+
 -- And optional
+
 - [ ] LED any color, SMD
 - [ ] 1K Ohm resistor, SMD
 - [ ] 100 nF capacitor, SMD
